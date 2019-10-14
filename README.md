@@ -4,7 +4,7 @@
 ### Design Applications
 
 - [Adobe XD](https://www.adobe.com/products/xd.html) - Wireframe, design, prototype, present, and share amazing experiences for web, mobile, voice, and more.
-
+- [Gravit Dsigner] (https://www.designer.io/en) - Full-featured vector graphic design app to create mock ups and wireframes for web and mobile using shared styles, symbols, overrides, anchors, and master pages.
 
 ### Design tools
 
@@ -39,7 +39,6 @@
 - [Lapa Ninja](https://www.lapa.ninja) - The best landing page design inspiration from around the web. The contents are selected from the best designs, and daily updated.
 - [Codrops](https://tympanus.net/codrops/) - Resource and Inspiration for creative minds, ranging from tutorials on new and experimental concepts, source, icons and tutorials.
 
-
 ### Illustrations
 
 - [Absurd Design](https://absurd.design) - Download Surrealist illustrations with sense. Use free for your landing pages and apps. These illustrations combines the absurdity and a deep sense of childishness and naivety.
@@ -48,6 +47,7 @@
 - [IRA Design](https://www.creative-tim.com/ira-design) - Build your own amazing illustrations
 - [DrawKit](https://www.drawkit.io) - MIT licensed SVG illustrations for you to use on your next project, in two different styles, for free!
 - [Mixkit](https://mixkit.co) - Mixkit Art is a curated gallery of beautiful art and illustration, made by some of the world’s most talented creators, it’s all completely free to use commercially.
+
 ### Emojis
 
 - [Emojipedia 😊](https://emojipedia.org/) If you need some emojis to add to your UI. You can search them from here and copy paste them that easy 👍🏽
