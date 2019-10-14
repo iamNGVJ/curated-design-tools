@@ -4,7 +4,7 @@
 ### Design Applications
 
 - [Adobe XD](https://www.adobe.com/products/xd.html) - Wireframe, design, prototype, present, and share amazing experiences for web, mobile, voice, and more.
-- [Gravit Dsigner] (https://www.designer.io/en) - Full-featured vector graphic design app to create mock ups and wireframes for web and mobile using shared styles, symbols, overrides, anchors, and master pages.
+- [Gravit Designer] (https://www.designer.io/en) - Full-featured vector graphic design app to create mock ups and wireframes for web and mobile using shared styles, symbols, overrides, anchors, and master pages.
 
 ### Design tools
 
